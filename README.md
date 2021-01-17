@@ -9,7 +9,8 @@ For our work, we have chosen to take mono files in thefirst place in order to fa
   * Check the loss graph in the chosen path.
 * Evaluation
   * ``` python evaluation.py```
-  * Check the result in the chosen path.
+  * Check the accuracy in the chosen path.
 * To test the model on a sample
   * ``` python test.py```
   * Modify the code to choose the sample you want to test
+
