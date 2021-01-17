@@ -14,3 +14,4 @@ For our work, we have chosen to take mono files in thefirst place in order to fa
   * ``` python test.py```
   * Modify the code to choose the sample you want to test
 
+For more details of the architecture and results, check our report: https://drive.google.com/drive/folders/1VG5ABirrC7aPgKrYopBxy0RjZ8OIqmoL?usp=sharing
