@@ -14,7 +14,7 @@ For our work, we have chosen to take mono files in thefirst place in order to fa
   * Check the accuracy in the chosen path.
 * To test the model on a sample.
   * ``` python test.py```
-  * Before testing download [__the checkpoints__](https://drive.google.com/drive/folders/11OaNbx-7b0Z_SMLXtKUiqKIq3_C7QYLv?usp=sharing) our trained model.
+  * Before testing, make sure you download [__the checkpoints__](https://drive.google.com/drive/folders/11OaNbx-7b0Z_SMLXtKUiqKIq3_C7QYLv?usp=sharing) of our trained model.
   * Modify the code to choose the sample you want to test.
 
 
