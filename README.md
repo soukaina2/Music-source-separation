@@ -12,8 +12,10 @@ For our work, we have chosen to take mono files in thefirst place in order to fa
 * Evaluation
   * ``` python evaluation.py```
   * Check the accuracy in the chosen path.
-* To test the model on a sample
+* To test the model on a sample.
   * ``` python test.py```
-  * Modify the code to choose the sample you want to test
+  * Before testing download [__the checkpoints__](https://drive.google.com/drive/folders/11OaNbx-7b0Z_SMLXtKUiqKIq3_C7QYLv?usp=sharing) our trained model.
+  * Modify the code to choose the sample you want to test.
+
 
 For more details of the architecture and results, check our [__report__](https://drive.google.com/drive/folders/1VG5ABirrC7aPgKrYopBxy0RjZ8OIqmoL?usp=sharing)
